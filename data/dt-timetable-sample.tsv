@@ -1,4 +1,4 @@
-"","segment.tag","station_name","trip_distance","h.departure.time","next.station_name","next.trip_distance","next.h.arrival.time","q80.next.delta.arrival.min","q80.next.delta.arrival.min.category"
-"1","Lausanne 467 Morges 478","Lausanne",57322.6,467,"Morges",45762,478,3.1,"some later more than 3 min"
-"2","Morges 478 Nyon 494","Morges",45762,478,"Nyon",20771.2,494,3.52,"some later more than 3 min"
-"3","Nyon 494 Genève 510","Nyon",20771.2,494,"Genève",0,510,4.75666666666667,"some later more than 3 min"
+segment.tag	station_name	trip_distance	h.departure.time	next.station_name	next.trip_distance	next.h.arrival.time	q80.next.delta.arrival.min	q80.next.delta.arrival.min.category
+1	Lausanne 467 Morges 478	Lausanne	57322.6	467	Morges	45762	478	3.1	some later more than 3 min
+2	Morges 478 Nyon 494	Morges	45762	478	Nyon	20771.2	494	3.52	some later more than 3 min
+3	Nyon 494 Genève 510	Nyon	20771.2	494	Genève	0	510	4.75666666666667	some later more than 3 min
